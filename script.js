@@ -2,8 +2,9 @@
 Bryan Palma
 Date: 02/19/2026   
 CSC 372-01
-For this assignment I implemented a script that will allow a user to use a favorites button where it will
-create an unordered list at the bottom of the page as well as the price of the dishes. 
+For this assignment I implemented a script that will allow a user to use a favorites 
+button where it will create an unordered list at the bottom of the page as well as the price 
+of the dishes. 
 */
 
 
